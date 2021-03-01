@@ -12,7 +12,7 @@ Enjoy learning and staying current on bleeding edge technology, systems, librari
 
 Grown with shells, linux user since '95 :)
 
-### How to contact me!
+### Where you can find me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-%230a66c2?logo=linkedin)](https://linkedin.com/in/avalla)
 [![Github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/avalla)
