@@ -1,6 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Andrea Valla! 👋
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/avalla) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=avalla.visitor-badge)](https://github.com/avalla) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/avalla)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/avalla)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=avalla.visitor-badge)](https://github.com/avalla)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/avalla)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-%230a66c2?logo=linkedin)](https://linkedin.com/in/avalla)
+[![Github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/avalla)
+[![Stackoverflow](https://img.shields.io/badge/-Stack%20Overflow-%23fafafb?logo=stackoverflow)](https://stackoverflow.com/users/876314)
+
+Experienced full stack programmer: developed enterprise level and scalable web applications. Experience in both client side and server side programming.
+
+Background in all steps of software engineering including analysis, design, coding, testing and implementation.
+
+Enjoy learning and staying current on bleeding edge technology, systems, libraries and frameworks.
+
+Grown with shells, linux user since '95 :)
+
 <!--
 **avalla/avalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
