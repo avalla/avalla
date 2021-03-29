@@ -19,7 +19,9 @@ Grown with shells, linux user since '95 :)
 [![Stackoverflow](https://img.shields.io/badge/-Stack%20Overflow-%23fafafb?logo=stackoverflow)](https://stackoverflow.com/users/876314)
 
 
-Eth: `0xd0c374846EFfd7cEe32e1c233AF8C58C38Cc03D2`
+ETX: `0xd0c374846EFfd7cEe32e1c233AF8C58C38Cc03D2`
+
+XMR: `45GHnspRymU3wagMGwx4vZiPQnBVFDuF3bL7qbfUx1kZajuiGZtVkKdBraPjb1gjTc4GPSvhC8owvPa7smZzmyxAGLh5kjA`
 
 <!--
 **avalla/avalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
