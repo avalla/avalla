@@ -3,6 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/avalla)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=avalla.visitor-badge)](https://github.com/avalla)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/avalla)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avalla)](https://github.com/avalla/github-readme-stats)
 
 Experienced full stack programmer: developed enterprise level and scalable web applications. Experience in both client side and server side programming.
