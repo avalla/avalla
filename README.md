@@ -18,6 +18,10 @@ Grown with shells, linux user since '95 :)
 [![Github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/avalla)
 [![Stackoverflow](https://img.shields.io/badge/-Stack%20Overflow-%23fafafb?logo=stackoverflow)](https://stackoverflow.com/users/876314)
 
+### Donations
+
+Absolutely not required. However, will be accepted as a token of appreciation.
+
 - BTC: `1H4KeNvqQcDLKy97DjhhmA2VawxD5SXto3`
 - ETH (ERC20): `0xd0c374846EFfd7cEe32e1c233AF8C58C38Cc03D2`
 - BEP20/BSC (ETH, BNB, ...): `0xa8b975224de5a5bce613edeb78bc21459bb33d2c`
