@@ -29,8 +29,7 @@ Absolutely not required. However, will be accepted as a token of appreciation.
 
 - BTC: `1H4KeNvqQcDLKy97DjhhmA2VawxD5SXto3`
 - ETH (ERC20): `0xd0c374846EFfd7cEe32e1c233AF8C58C38Cc03D2`
-- BEP20/BSC (ETH, BNB, ...): `0xd0c374846EFfd7cEe32e1c233AF8C58C38Cc03D2`
-- XMR: `45GHnspRymU3wagMGwx4vZiPQnBVFDuF3bL7qbfUx1kZajuiGZtVkKdBraPjb1gjTc4GPSvhC8owvPa7smZzmyxAGLh5kjA`
+
 
 Or [buy a beer for me](https://www.buymeacoffee.com/avalla) :)
 
