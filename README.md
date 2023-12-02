@@ -14,6 +14,9 @@ Enjoy learning and staying current on bleeding edge technology, systems, librari
 
 Grown with shells, linux user since '95 :)
 
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avalla&layout=compact)
+
 ### Where you can find me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-%230a66c2?logo=linkedin)](https://linkedin.com/in/avalla)
